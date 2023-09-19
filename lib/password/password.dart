@@ -58,8 +58,6 @@ class _AppForms extends State {
   bool option4 = true;  
   bool option5 = true; 
   String password = "";
-  bool switch1 = false;
-  String? formato = "";
 
   @override
   Widget build(BuildContext context) {
